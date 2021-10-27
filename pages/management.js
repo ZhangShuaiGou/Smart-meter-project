@@ -24,6 +24,8 @@ class Management extends Component {
   }
 
 
+  
+ 
   render() {
     const { Header, Row, HeaderCell, Body } = Table;
 

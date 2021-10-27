@@ -5,7 +5,6 @@ import { Router } from '../routes';
 import Layout from '../components/Layout';
 import factory from '../ethereum/factory';
 
-
 class NewContract extends Component {
   state = {
     input:'',
